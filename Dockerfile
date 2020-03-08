@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:19.10
 
 MAINTAINER PsyKzz <matt.daemon660@gmail.com>
 
